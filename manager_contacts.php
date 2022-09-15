@@ -1,3 +1,4 @@
+<?php
 /**
 * Plugin Name: Manager Contacts
 * Plugin URI: https://github.com/dscostat7/manager_contacts
