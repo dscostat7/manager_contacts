@@ -5,9 +5,9 @@
 <p align="center">Contact Manager</p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/badge/ReactJS-blue">
-  <img alt="License" src="https://img.shields.io/badge/NextJS-black">
+  <img alt="License" src="https://img.shields.io/badge/PHP-purple">
   <img alt="License" src="https://img.shields.io/badge/HTML-orange">
+  <img alt="License" src="https://img.shields.io/badge/Wordpress-purple">
   <img alt="License" src="https://img.shields.io/badge/CSS-blue">
 
   <a href="https://beacons.ai/dscostat7/" target="_blank">
